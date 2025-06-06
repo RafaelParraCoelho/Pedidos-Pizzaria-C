@@ -23,11 +23,3 @@ Este programa em C simula um sistema básico de cadastro e gerenciamento de pedi
   - Quantidade de mulheres que compraram
   - Total de itens vendidos por clientes que não declararam sexo
 
----
-
-## Como usar
-
-1. Compile o código:
-
-```bash
-gcc pizzaria.c -o pizzaria
